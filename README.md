@@ -72,7 +72,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
--
-**Majall/Majall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
