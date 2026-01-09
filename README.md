@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Majall
 =================================================================================================================================
 
-Undergraduate IT student A passionate MERN Stack Devoloper. I work in the Corporate IT Sector
+A passionate MERN Stack Devoloper. I work in the Corporate IT Sector
 -----------------------------------------------------------------------------------
 
 * 🌍  I'm based in Sri Lanka
@@ -20,8 +20,8 @@ Undergraduate IT student A passionate MERN Stack Devoloper. I work in the Corpor
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/majaal-mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/-majall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/majaal-mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/Majall/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/-majall" target="blank"><img align="center" src="https://raw.githubusercontent.com/Majall/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   
 
 
