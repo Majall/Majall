@@ -1,8 +1,12 @@
 <h1 align="center">Hey Everyone 👋, I'm Majall </h1>
 
-<div align="center">
-  <img src="https://github.com/Majall/Majall/blob/main/Banner.png" alt="Banner.jpg.png">
-</div>
+Undergraduate IT student passionate about backend development and web technologies.
+-----------------------------------------------------------------------------------
+
+* 🌍  I'm based in Sri Lanka
+* ✉️  You can contact me at [majaalmj7@gmail.com](mailto:majaalmj7@gmail.com)
+
+
 
 <h3 align="center">A passionate MERN Stack Devoloper. I work in the Corporate IT Sector  </h3>
 
@@ -33,7 +37,7 @@
   <a href="https://instagram.com/-majall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   
 
----
+---# 💻 Tech Stack:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
