@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Majall
 =================================================================================================================================
 
-Undergraduate IT student passionate about backend development and web technologies.
-      A passionate MERN Stack Devoloper. I work in the Corporate IT Sector
+Undergraduate IT student A passionate MERN Stack Devoloper. I work in the Corporate IT Sector
 -----------------------------------------------------------------------------------
 
 * 🌍  I'm based in Sri Lanka
