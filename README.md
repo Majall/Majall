@@ -6,6 +6,7 @@ A passionate MERN Stack Devoloper. I work in the Corporate IT Sector
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [majaalmj7@gmail.com](mailto:majaalmj7@gmail.com)
+* https://mohamed-majaal-kontjq.aptifolio.app/
 
 <p align="center">
   <a href="https://github.com/Majall">
